@@ -1,0 +1,17 @@
+body {
+     font-family: Arial, sans-serif;
+ }
+ 
+ .translation-form {
+     margin-bottom: 20px;
+ }
+ 
+ textarea {
+     width: 100%;
+     height: 100px;
+     margin-bottom: 10px;
+ }
+ 
+ button {
+     cursor: pointer;
+ }
